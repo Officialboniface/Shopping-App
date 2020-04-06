@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="chinese_shrimp">Chinese Shrimp</string>
+    <string name="_40">$40</string>
+    <string name="english_hamburger">English Hamburger</string>
+    <string name="this_well_seasoned_burger_is_actually_the_best_on_the_grill_in_summertime">This well Seasoned Recipe is actually the best on the grill in summertime</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
